@@ -32,7 +32,7 @@ const IndexPage = () => (
     <p> - other: hoping to start a substack soon where i write about various interests.</p>
     <div style={{ textAlign: 'center' }}>
       <Button as={Link} href="/work/">my work</Button>
-      <Button as={Link} href="/writing/">some writing</Button>
+      <Button as={Link} href="/writing/">writing</Button>
     </div>
     <div style={{ textAlign: 'left', paddingTop: '2rem' }}>
       <Image src={kanye} alt='kanye' />
