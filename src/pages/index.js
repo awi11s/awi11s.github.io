@@ -18,8 +18,6 @@ const Image = styled.img({
 })
 const IndexPage = () => (
  
-  // const history = useHistory();
-
   <Layout>
     <Seo title="home" />
     <h1>austin wills: </h1>
