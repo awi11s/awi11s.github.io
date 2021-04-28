@@ -13,7 +13,7 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const Image = styled.img({
-  maxWidth: '450px',
+  maxWidth: '80%',
   borderRadius: '20px'
 })
 const IndexPage = () => (
@@ -22,8 +22,7 @@ const IndexPage = () => (
 
   <Layout>
     <Seo title="home" />
-    <h1>welcome to my piece of the internet...</h1>
-    <p>my name is austin </p>
+    <h1>austin wills: </h1>
     <p> - currently working on data engineering and analytics as an intern with <a href="http://nashvillesc.com" target="_blank" rel="noopener noreferrer">nashvillesc.com</a>.
     </p>
     <p> - also a recent graduate of <a href="http://trevecca.edu" target="_blank" rel="noopener noreferrer">trevecca.edu</a>.</p>
