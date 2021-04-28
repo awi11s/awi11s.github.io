@@ -1,10 +1,12 @@
 module.exports = {
+  pathPrefix: '/',
   siteMetadata: {
     title: `site by austin`,
     description: `just out here making a website`,
     author: `@gatsbyjs`,
   },
   plugins: [
+    'gatsby-plugin-offline',
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
     {
