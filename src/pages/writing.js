@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 const SecondPage = () => (
   <Layout>
     <Seo title="writing" />
-    <h1>new substack otw...</h1>
+    <h1>new substack is otw...</h1>
     <Button as={Link} href="/">back to home</Button>
   </Layout>
 )
