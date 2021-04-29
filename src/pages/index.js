@@ -24,7 +24,7 @@ const IndexPage = () => (
     <p> - currently working on data engineering and analytics as an intern with <a href="http://nashvillesc.com" target="_blank" rel="noopener noreferrer">nashvillesc.com</a>.
     </p>
     <p> - also a 2021 graduate of <a href="http://trevecca.edu" target="_blank" rel="noopener noreferrer">trevecca.edu</a>.</p>
-    <p> - looking for employment in data or software? yes</p>
+    <p> - looking for employment in data or software...</p>
     <p> - experience: Python, R, SQL, React, React Native, Java, and Solidity.</p>
     <p> - other: hoping to start a substack soon where i write about various interests.</p>
     <div style={{ textAlign: 'center' }}>
