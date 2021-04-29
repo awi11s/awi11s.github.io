@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[676],{6466:function(e,t,a){"use strict";a.r(t);var n=a(7294),r=a(5444),l=a(7004),s=a(7198),u=a(3751);t.default=function(){return n.createElement(s.Z,null,n.createElement(u.Z,{title:"writing"}),n.createElement("h1",null,"new substack is otw..."),n.createElement(l.z,{as:r.Link,href:"/"},"back to home"))}}}]);
+//# sourceMappingURL=component---src-pages-writing-js-3f376c72dddc72a8b992.js.map
