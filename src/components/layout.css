@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Kalam&display=swap');
 
 html {
   -ms-text-size-adjust: 100%;
@@ -13,7 +14,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: antiquewhite;
   color: hsla(0, 0%, 0%, 0.8);
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'IBM Plex Mono', 'Source Code Pro', monospace;
   padding-top: 2rem;
   font-weight: normal;
   word-wrap: break-word;
@@ -85,7 +86,7 @@ h1 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Source Code Pro', monospace, -apple-system, Segoe UI, Roboto, Oxygen,
+  font-family: 'IBM Plex Mono', 'Source Code Pro', monospace, -apple-system, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
@@ -264,7 +265,7 @@ h2 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Source Code Pro', monospace, -apple-system, Segoe UI, Roboto, Oxygen,
+  font-family: 'IBM Plex Mono', 'Source Code Pro', monospace, -apple-system, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
@@ -281,7 +282,7 @@ h3 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: -apple-system, 'Source Code Pro', Segoe UI, Roboto, Oxygen,
+  font-family: 'IBM Plex Mono', -apple-system, 'Source Code Pro', Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
