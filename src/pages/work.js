@@ -11,6 +11,13 @@ import Seo from "../components/seo";
 const WorkPage = () => (
   <Layout>
     <Seo title="work portfolio" />
+    <Project title='Michael Miller Music' link="https://github.com/awi11s/moose-site">
+      this is a website that I am building for an up and coming country music artist out of
+      Ohio. the site is made with react, but currently consists of mainly html and css elements at the moment, 
+      along with my original svg art. hoping to
+      add some JS features and animations asap. The source code will be below but I will also link the site... 
+      <a href="https://www.sitebyaustin.dev/moose-site/" target="_blank" rel="noopener noreferrer">here.</a> 
+    </Project>
     <Project title='Bible App Clone' link="https://github.com/awi11s/PdNativeApp">
       this is a project i'm currently working on every now and then when i have time. 
       like the title says, it's a clone of the bible app using a react native front-end. 
