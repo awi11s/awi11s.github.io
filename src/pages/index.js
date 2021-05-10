@@ -3,6 +3,7 @@ import * as React from "react"
 import { Link } from "gatsby"
 import styled from "styled-components";
 import { Button } from "../components/Button";
+import TextChange from '../components/TextChange';
 
 import kanye from '../images/kanye1.jpg';
 import daniel from '../images/daniel1.jpg';
@@ -16,8 +17,10 @@ const Image = styled.img({
   maxWidth: '80%',
   borderRadius: '20px'
 })
+
 const IndexPage = () => (
  
+  
   <Layout>
     <Seo title="home" />
     <h1>austin wills: </h1>
@@ -27,6 +30,9 @@ const IndexPage = () => (
     <p> - looking for employment in data or software...</p>
     <p> - experience: Python, R, SQL, React, React Native, Java, and Solidity.</p>
     <p> - other: hoping to start a substack soon where i write about various interests.</p>
+    <div style={{ display: 'flex' }}>
+      <p> - probably listening to: </p><TextChange />
+    </div>
     <div style={{ textAlign: 'center' }}>
       <Button as={Link} href="/work/">my work</Button>
       <Button as={Link} href="/writing/">writing</Button>
