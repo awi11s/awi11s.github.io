@@ -19,7 +19,7 @@ const TextChange = () => {
                 return newName;
             })
             console.log(count)
-        }, 3200);
+        }, 2700);
 
         return () => {
             clearInterval(timer);

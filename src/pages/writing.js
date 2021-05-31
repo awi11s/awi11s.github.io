@@ -1,15 +1,15 @@
 import * as React from "react"
-import { Link } from "gatsby"
-import { Button } from '../components/Button'
+import SubPost from "../components/SubPost"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const SecondPage = () => (
   <Layout>
-    <Seo title="writing" />
-    <h1>new substack is otw...</h1>
-    <Button as={Link} href="/">back to home</Button>
+    <h1>writing...</h1>
+    <SubPost title="#1: no need to overcomplicate" link="https://byaustin.substack.com/p/1-no-need-to-overcomplicate">
+    sometimes the struggles of life draw us away from our purpose, which may be more simple than what we think.
+    </SubPost>
   </Layout>
 )
 
