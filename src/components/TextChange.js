@@ -8,7 +8,7 @@ const TextChange = () => {
     const [name, setName] = useState('graduation by kanye west')
 
     useEffect(() => {
-        let names = ['graduation by kanye west', 'saturation I by brockhampton', 'deann by zach bryan', 'kiwanuka by michael kiwanuka',
+        let names = ['graduation by kanye west', 'MBDTF by kanye west', 'deann by zach bryan', 'kiwanuka by michael kiwanuka',
                      'the life of pablo by kanye west', 'ginger by brockhampton', 'elisabeth by zach bryan',
                      'process by sampha', 'because the internet by childish gambino', 'man on the moon by kid cudi', 'care for me by saba'];
         let count = 0;
