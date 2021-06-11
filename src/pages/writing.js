@@ -12,6 +12,9 @@ const SecondPage = () => (
     <SubPost title="the world(s) as we know it" link="https://byaustin.substack.com/p/the-worlds-as-we-know-it">
     #2: the first piece of hopefully many where I discuss the realities we shape outside of our immediate physical world, through our digital devices.
     </SubPost>
+    <SubPost title="slowing down" link="https://byaustin.substack.com/p/slowing-down">
+    #3: approaching Christ and His Word at a time when we consume content at rapid speeds.
+    </SubPost>
   </Layout>
 )
 
