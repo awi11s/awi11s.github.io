@@ -1,19 +1,4 @@
-// import React, { Component } from 'react'
-// import { ReactComponent as Self } from '../images/Mysite1.svg';
-
-
-// export default class SelfGraphic extends Component {
-
-//     render() {
-//         return (
-//             <div style={{ postion: 'relative' }}>
-//                 <div style={{ postion: 'absolute', left: '50%'}}>
-//                 <Self style={{  marginTop: '-50%', display: 'block' }}/>
-//                 </div>
-//             </div>
-//         )
-//     }
-// }
+// main svg graphic that covers the page 
 
 import React from 'react';
 

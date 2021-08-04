@@ -1,3 +1,4 @@
+// a react component that will itereate through a list of music to show on the home page
 
 import React, { useState, useEffect } from 'react';
 
@@ -28,7 +29,7 @@ const TextChange = () => {
     }, []);
     
     return(
-        <p style={{ color: '#026acc'}}>  {name}</p>
+        <p style={{ color: 'rebeccapurple'}}>  {name}</p>
     )
 }
 
