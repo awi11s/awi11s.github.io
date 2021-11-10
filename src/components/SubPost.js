@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Button } from './Button'
+import { Button } from '../styles/components'
 import PropTypes from 'prop-types';
 
 export default class SubPost extends Component {

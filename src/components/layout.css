@@ -1,17 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Kalam&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sintony:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
 
 @media screen and (max-width: 800px) {
   h1 {
     font-size: 1.5rem;
     font-family: 'Sintony', 'IBM Plex Mono', 'Source Code Pro';
-    color: #66788c;
   }
   .icon {
     font-size: 1.5rem;
     filter: drop-shadow(0px 5px 5px #4a6373);
-    color: hsl(286, 59%, 39%)
+    color: palevioletred;
   }
 }
 
@@ -20,11 +20,10 @@
     font-size: 3rem;
 
     font-family: 'Sintony', 'IBM Plex Mono', 'Source Code Pro';
-    color: #66788c;
   }
   .icon {
     font-size: 3rem;
-    color: hsl(286, 59%, 39%);
+    color: palevioletred;
     filter: drop-shadow(0px 5px 5px #4a6373);
   }
 }

@@ -29,7 +29,7 @@ const TextChange = () => {
     }, []);
     
     return(
-        <p style={{ color: 'rebeccapurple'}}>  {name}</p>
+        <p style={{ color: 'palevioletred'}}>  {name}</p>
     )
 }
 
