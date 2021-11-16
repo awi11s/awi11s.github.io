@@ -15,7 +15,7 @@ const IndexPage = () => (
     <div style={{ display: "flex", paddingTop: "16%", paddingLeft: "10%" }}>
       {/** unordered list for social icons */}
       <ul style={{ display: "flex", listStyleType: "none" }}>
-        <li style={{ padding: "1.5rem", margin: "0" }}>
+        <li style={{ padding: "1em", margin: "0" }}>
           <a
             href="https://twitter.com/a_wills15"
             target="_blank"
@@ -25,9 +25,9 @@ const IndexPage = () => (
             <FaTwitter className="icon" />
           </a>
         </li>
-        <li style={{ padding: "1.5rem", margin: "0" }}>
+        <li style={{ padding: "1em", margin: "0 auto" }}>
           <a
-            href="https://www.instagram.com/austinwills11/"
+            href="https://www.instagram.com/austinwills__/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="ig"
@@ -35,7 +35,7 @@ const IndexPage = () => (
             <FaInstagram className="icon" />
           </a>
         </li>
-        <li style={{ padding: "1.5rem", margin: "0" }}>
+        <li style={{ padding: "1em", margin: "0 auto" }}>
           <a
             href="https://open.spotify.com/user/v7ui3sy1312l9z1vsoz77f1fs"
             target="_blank"
@@ -45,7 +45,7 @@ const IndexPage = () => (
             <FaSpotify className="icon" />
           </a>
         </li>
-        <li style={{ padding: "1.5rem", margin: "0" }}>
+        <li style={{ padding: "1em", margin: "0 auto" }}>
           <a
             href="https://github.com/awi11s"
             target="_blank"

@@ -12,6 +12,7 @@ export const Projects = () => {
                 <p>an application that allows users to add annotations to bible verses from a historical or archeological perspective.</p>
             </div>
             </div>
+            <a href="https://byaustin.substack.com/"><h2>substack</h2></a>
         </div>
     )
 }
