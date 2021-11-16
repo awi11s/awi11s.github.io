@@ -1,15 +1,13 @@
 // necessary libraries / photos / svg graphics
 
 import React from "react"
-import TextChange from "../components/graphics/TextChange"
 import { FaInstagram, FaTwitter, FaSpotify, FaGithub } from "react-icons/fa"
 
 import SelfGraphic from "../components/graphics/SelfGraphic"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import Photos from "../components/Photos"
-import { Button } from "../styles/components"
+import { Projects } from "../components/Projects"
 
 const IndexPage = () => (
   <>
@@ -67,7 +65,8 @@ const IndexPage = () => (
     {/* everything below the graphic */}
 
     <Layout>
-      <Photos />
+      <Projects />
+      {/* <Photos /> */}
     </Layout>
   </>
 )

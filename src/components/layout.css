@@ -1,7 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Kalam&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Sintony:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic&display=swap');
 
 @media screen and (max-width: 800px) {
   h1 {
@@ -11,7 +8,7 @@
   .icon {
     font-size: 1.5rem;
     filter: drop-shadow(0px 5px 5px #4a6373);
-    color: palevioletred;
+    color: #f598b7;
   }
 }
 
@@ -39,8 +36,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #a6e4ff;
-  color: hsla(0, 0%, 0%, 0.8);
-  font-family: 'Sintony', 'IBM Plex Mono', 'Source Code Pro', monospace;
+  color: hsla(207, 30%, 25%, 0.8);
+  font-family: 'Zen Maru Gothic', sans-serif;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -274,10 +271,10 @@ h2 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Sintony', 'IBM Plex Mono', 'Source Code Pro', monospace, -apple-system, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Zen Maru Gothic', sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
+  filter: drop-shadow(0px 3px 3px #4a6373);
   font-size: 1.62671rem;
   line-height: 1.1;
 }
@@ -291,8 +288,7 @@ h3 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Sintony', 'IBM Plex Mono', -apple-system, 'Source Code Pro', Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Zen Maru Gothic', sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1.38316rem;
